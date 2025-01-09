@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1736133640802" clover="3.2.0">
-  <project timestamp="1736133640802" name="All files">
+<coverage generated="1736389811999" clover="3.2.0">
+  <project timestamp="1736389811999" name="All files">
     <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="5" coveredelements="5" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
     <file name="FirstApp.jsx" path="C:\Users\jesus\proyectos node react angular\React-Fernando-Herrera\react-vite-counter-app-fin-seccion-4\src\FirstApp.jsx">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="3" count="1" type="stmt"/>
-      <line num="7" count="3" type="stmt"/>
+      <line num="7" count="4" type="stmt"/>
       <line num="19" count="1" type="stmt"/>
       <line num="24" count="1" type="stmt"/>
     </file>
